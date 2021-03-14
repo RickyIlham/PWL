@@ -8,7 +8,18 @@
     <header>
         @include('includes.header')
     </header>
-    @yield('content')
+    
+            <div class="row">
+                <div class="col-sm-1">
+                    @include('includes.sidebar')
+                </div>
+        <div class="col-sm-11">
+            
+                @yield('content')
+            
+        </div>
+    </div>
+    
 
     @include('includes.footer')
 </body>

@@ -3,16 +3,16 @@
       <div class="container">
         <div class="row py-4 d-flex align-item-center">
           <div class="col-md-12 text-center">
-            <a href=""><i class="fab fa-facebook text-white mr-4"></i></a>
-            <a href=""><i class="fab fa-pinterest text-white mr-4"></i></a>
-            <a href=""><i class="fab fa-instagram text-white mr-4"></i></a>
-            <a href=""><i class="fab fa-deviantart text-white mr-4"></i></a>
+            <a href=""><i class="fab fa-facebook text-black mr-4"></i></a>
+            <a href=""><i class="fab fa-pinterest text-black mr-4"></i></a>
+            <a href=""><i class="fab fa-instagram text-black mr-4"></i></a>
+            <a href=""><i class="fab fa-deviantart text-black mr-4"></i></a>
           </div>
         </div>
       </div>
     </div>
     <div class="footer-copyright text-center py-2 bgfooter">
-      <p>&copy; Copyright <a href="#">PeduliKucing.com</a></p>
+      <p>&copy; Copyright <a href="/home">PeduliKucing.com</a></p>
     </div>
   </footer>
 
